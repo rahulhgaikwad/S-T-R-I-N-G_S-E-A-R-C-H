@@ -1,6 +1,6 @@
 #Author : Rahul Gaikwad
 #Date : 12/11/2015
-#File : B.py
+#File : B.py class 
 from m import M
 
 class B(M):
